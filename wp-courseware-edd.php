@@ -150,8 +150,8 @@ class WPCW_EDD extends WPCW_Members
                 // Over to the parent class to handle the sync of data.
                 parent::handle_courseSync($customer_id, $userLevels);
 
-			    $page->showMessage(__('All members were successfully retroactively enrolled into the selected courses.', 'wp_courseware'));
             }
+            $page->showMessage(__('All members were successfully retroactively enrolled into the selected courses.', 'wp_courseware'));
             return;
         } else {
             $page->showMessage(__('No existing members found for the specified level.', 'wp_courseware'));

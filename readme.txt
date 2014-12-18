@@ -58,13 +58,13 @@ Yes!
 Click here to get the [Best WordPress LMS Plugin](http://wpcourseware.com).
 
 = Where can I get Easy Digital Downloads? =
-Easy Digital Downloads is free, however the membership addon is required to sell courses. Click here to get [Easy Digital Downloads](http://easydigitaldownloads.com).
+Easy Digital Downloads is free. Click here to get [Easy Digital Downloads](http://easydigitaldownloads.com).
 
 == Screenshots ==
 
 1. The Course Access Settings screen will display which products are associated with which courses
 
-2. This is the actual configuration screen where you can select courses that will be associated with a particular membership level as well as retroactively assign courses to current customers
+2. This is the actual configuration screen where you can select courses that will be associated with a particular product as well as retroactively assign courses to current customers
 
 == Changelog ==
 
@@ -73,4 +73,3 @@ Easy Digital Downloads is free, however the membership addon is required to sell
 
 
 == Upgrade notice ==
-

@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-This plugin adds integration between Easy Digital Downloads and WP Courseware
+This plugin adds integration between Easy Digital Downloads and WP Courseware which allows you to assign course(s) to products for auto enrollment.
 
 == Description ==
 [Fly Plugins](http://flyplugins.com) presents [Easy Digital Downloads](http://easydigitaldownloads.com) for [WP Courseware](http://wpcourseware.com).
@@ -36,6 +36,9 @@ For more info about Fly Plugins Free and Premium Plugins, check out the followin
 * [S3 Media Maestro](http://s3mediamaestro.com/) - Amazon S3 link encryption with HTML5 supported media player. Flash free & iDevice ready. Your media is now protected..
 * Follow Fly Plugins on [Facebook](http://facebook.com/flyplugins) 
 * Check out the Fly Plugins [YouTube](http://www.youtube.com/flyplugins) channel.
+
+= Disclaimer =
+This is not an actual membership plugin. It is only the integration, or “middle-man” between WP Courseware and Easy Digital Downloads.
 
 == Installation ==
 
